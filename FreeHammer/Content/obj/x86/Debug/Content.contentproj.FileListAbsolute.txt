@@ -1,0 +1,2 @@
+C:\Code\FreeHammer\FreeHammer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\XNA(C#)\FreeHammer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
